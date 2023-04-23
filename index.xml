@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Дизайн-система для email-рассылок Bonfire</title>
+    <link>https://vshabat.github.io/designsystem-bonfire/</link>
+    <description>Recent content on Дизайн-система для email-рассылок Bonfire</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://vshabat.github.io/designsystem-bonfire/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unisender и его возможности</title>
+      <link>https://vshabat.github.io/designsystem-bonfire/docs/platform/unisender/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vshabat.github.io/designsystem-bonfire/docs/platform/unisender/</guid>
+      <description>Unisender и его возможности#111222Buttons are styled links that can lead to local page or external link.</description>
+    </item>
+    
+    <item>
+      <title>Состав дизайн-системы</title>
+      <link>https://vshabat.github.io/designsystem-bonfire/docs/introduction/composition/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vshabat.github.io/designsystem-bonfire/docs/introduction/composition/</guid>
+      <description>Состав дизайн-системы#111Buttons are styled links that can lead to local page or external link.
+Example#{{&amp;lt; button relref=&amp;#34;/&amp;#34; [class=&amp;#34;...&amp;#34;] &amp;gt;}}Get Home{{&amp;lt; /button &amp;gt;}} {{&amp;lt; button href=&amp;#34;https://github.com/alex-shpak/hugo-book&amp;#34; &amp;gt;}}Contribute{{&amp;lt; /button &amp;gt;}} Get HomeContribute</description>
+    </item>
+    
+    <item>
+      <title>Требования</title>
+      <link>https://vshabat.github.io/designsystem-bonfire/docs/master-template/requirements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vshabat.github.io/designsystem-bonfire/docs/master-template/requirements/</guid>
+      <description>Требования#Зачем нужен мастер-шаблон&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Блок &#34;баннер&#34;</title>
+      <link>https://vshabat.github.io/designsystem-bonfire/docs/master-template/editable-blocks/banner/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vshabat.github.io/designsystem-bonfire/docs/master-template/editable-blocks/banner/</guid>
+      <description>Блок &amp;ldquo;баннер&amp;rdquo;#Рисуешь в GIMP&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Как пользоваться</title>
+      <link>https://vshabat.github.io/designsystem-bonfire/docs/master-template/how-to-use/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vshabat.github.io/designsystem-bonfire/docs/master-template/how-to-use/</guid>
+      <description>Как пользоваться мастер-шаблоном#Когда готовишь рассылку&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Логин и пароль</title>
+      <link>https://vshabat.github.io/designsystem-bonfire/docs/platform/credentials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vshabat.github.io/designsystem-bonfire/docs/platform/credentials/</guid>
+      <description>Логин и пароль#Спросите у Наташи Гончаровой</description>
+    </item>
+    
+    <item>
+      <title>Цель</title>
+      <link>https://vshabat.github.io/designsystem-bonfire/docs/introduction/goal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vshabat.github.io/designsystem-bonfire/docs/introduction/goal/</guid>
+      <description>Columns#Columns help organize shorter pieces of content horizontally for readability.
+{{&amp;lt; columns &amp;gt;}} &amp;lt;!-- begin columns block --&amp;gt; # Left Content Lorem markdownum insigne... &amp;lt;---&amp;gt; &amp;lt;!-- magic separator, between columns --&amp;gt; # Mid Content Lorem markdownum insigne... &amp;lt;---&amp;gt; &amp;lt;!-- magic separator, between columns --&amp;gt; # Right Content Lorem markdownum insigne... {{&amp;lt; /columns &amp;gt;}} Example#Left Content#Lorem markdownum insigne. Olympo signis Delphis! Retexi Nereius nova develat stringit, frustra Saturnius uteroque inter!</description>
+    </item>
+    
+    <item>
+      <title>Как пользоваться этим гайдом</title>
+      <link>https://vshabat.github.io/designsystem-bonfire/docs/introduction/how-to-use/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vshabat.github.io/designsystem-bonfire/docs/introduction/how-to-use/</guid>
+      <description>Details#Details shortcode is a helper for details html5 element. It is going to replace expand shortcode.
+Example#{{&amp;lt; details &amp;#34;Title&amp;#34; [open] &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /details &amp;gt;}} {{&amp;lt; details title=&amp;#34;Title&amp;#34; open=true &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /details &amp;gt;}} TitleMarkdown content#Lorem markdownum insigne&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
