@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Платформа on Дизайн-система для email-рассылок Bonfire</title>
-    <link>https://vshabat.github.io/designsystem-bonfire/docs/platform/</link>
+    <link>https://vshabat.github.io/ds-bonfire-web/docs/platform/</link>
     <description>Recent content in Платформа on Дизайн-система для email-рассылок Bonfire</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://vshabat.github.io/designsystem-bonfire/docs/platform/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://vshabat.github.io/ds-bonfire-web/docs/platform/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Unisender и его возможности</title>
-      <link>https://vshabat.github.io/designsystem-bonfire/docs/platform/unisender/</link>
+      <link>https://vshabat.github.io/ds-bonfire-web/docs/platform/unisender/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vshabat.github.io/designsystem-bonfire/docs/platform/unisender/</guid>
+      <guid>https://vshabat.github.io/ds-bonfire-web/docs/platform/unisender/</guid>
       <description>Unisender и его возможности#111222Buttons are styled links that can lead to local page or external link.</description>
     </item>
     
     <item>
       <title>Логин и пароль</title>
-      <link>https://vshabat.github.io/designsystem-bonfire/docs/platform/credentials/</link>
+      <link>https://vshabat.github.io/ds-bonfire-web/docs/platform/credentials/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vshabat.github.io/designsystem-bonfire/docs/platform/credentials/</guid>
+      <guid>https://vshabat.github.io/ds-bonfire-web/docs/platform/credentials/</guid>
       <description>Логин и пароль#Спросите у Наташи Гончаровой</description>
     </item>
     
