@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Чеклисты on Дизайн-система для email-рассылок Bonfire</title>
-    <link>https://vshabat.github.io/docs/checklists/</link>
+    <link>https://vshabat.github.io/ds-bonfire-web/docs/checklists/</link>
     <description>Recent content in Чеклисты on Дизайн-система для email-рассылок Bonfire</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://vshabat.github.io/docs/checklists/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://vshabat.github.io/ds-bonfire-web/docs/checklists/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Чеклист для тестирования в Stripo</title>
-      <link>https://vshabat.github.io/docs/checklists/checklist-stripo/</link>
+      <link>https://vshabat.github.io/ds-bonfire-web/docs/checklists/checklist-stripo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vshabat.github.io/docs/checklists/checklist-stripo/</guid>
+      <guid>https://vshabat.github.io/ds-bonfire-web/docs/checklists/checklist-stripo/</guid>
       <description>Чеклист для тестирования в Stripo#Проверьте свою рассылку после того, как добавите все иллюстрации и ссылки.
 Концепция. Соответствует ли письмо концепции, которую мы сформулировали в начале работы над письмом? Ясность и краткость. Есть ли в письме элементы, которые можно выкинуть без негативных последствий для концепции? Грамотность. Нет ли в тексте письма орфографических или синтаксических ошибок? Эстетика. Хорошо ли письмо смотрится, в целом? Соответствует ли бренду Bonfire? Не нарушены ли принципы дизайна?</description>
     </item>
     
     <item>
       <title>Чеклист для тестирования в ESP</title>
-      <link>https://vshabat.github.io/docs/checklists/checklist-esp/</link>
+      <link>https://vshabat.github.io/ds-bonfire-web/docs/checklists/checklist-esp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vshabat.github.io/docs/checklists/checklist-esp/</guid>
+      <guid>https://vshabat.github.io/ds-bonfire-web/docs/checklists/checklist-esp/</guid>
       <description>Чеклист для тестирования в ESP#Проверка в ESP — повторная. Проводите эту проверку после того, как загрузите рассылку в ESP.
 Корректность верстки. Сделайте повторную проверку, опять по нашим стандартам. Случается, что при загрузке в ESP заменяются некоторые теги HTML, из-за чего рассылка &amp;ldquo;ломается&amp;rdquo;. Персонализация. Если вы используете персонализацию — корректно ли она срабатывает? Корректно ли срабатывает, когда у подписчика поле персонализации (например имя) пустое? UTM-метки. Правильно ли они расставлены?</description>
     </item>
     
     <item>
       <title>Типографские правила</title>
-      <link>https://vshabat.github.io/docs/checklists/checklist-typography/</link>
+      <link>https://vshabat.github.io/ds-bonfire-web/docs/checklists/checklist-typography/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vshabat.github.io/docs/checklists/checklist-typography/</guid>
+      <guid>https://vshabat.github.io/ds-bonfire-web/docs/checklists/checklist-typography/</guid>
       <description>Типографские правила#Проверьте свою рассылку после того, как добавите все иллюстрации и ссылки
 &amp;ldquo;Висящие&amp;rdquo; предлоги и союзы. Никакая строка не должна заканчиваться предлогом или союзом ни при каком размере экрана. Вообще лучшая практика — не обрывать словосочетание с единым общим смыслом посередине Тире или дефис?. Важно не путать одно с другим. Двойные пробелы. Их не должно быть. Кавычки-&amp;ldquo;елочки&amp;rdquo;. В русском языке это стандарт, нужно использовать их, а не компьютерные.</description>
     </item>
