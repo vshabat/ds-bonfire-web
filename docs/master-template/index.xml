@@ -1,27 +1,96 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Мастер-шаблон для регулярной рассылки on Дизайн-система для email-рассылок Bonfire</title>
+    <title>Мастер-шаблон для маркетинговых рассылок on Дизайн-система для email-рассылок Bonfire</title>
     <link>https://vshabat.github.io/ds-bonfire-web/docs/master-template/</link>
-    <description>Recent content in Мастер-шаблон для регулярной рассылки on Дизайн-система для email-рассылок Bonfire</description>
+    <description>Recent content in Мастер-шаблон для маркетинговых рассылок on Дизайн-система для email-рассылок Bonfire</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://vshabat.github.io/ds-bonfire-web/docs/master-template/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Требования</title>
-      <link>https://vshabat.github.io/ds-bonfire-web/docs/master-template/requirements/</link>
+      <title>Стандартные элементы шаблона</title>
+      <link>https://vshabat.github.io/ds-bonfire-web/docs/master-template/standard_parts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vshabat.github.io/ds-bonfire-web/docs/master-template/requirements/</guid>
-      <description>Требования#Зачем нужен мастер-шаблон&amp;hellip;</description>
+      <guid>https://vshabat.github.io/ds-bonfire-web/docs/master-template/standard_parts/</guid>
+      <description>Стандартные элементы шаблона#Шапка с логотипом, фон письма, ширина тела письма и футер стандартны и не должны меняться.
+Шапка всегда должна идти первой, футер — последним.
+Шапка:
+Футер:</description>
     </item>
     
     <item>
-      <title>Как пользоваться</title>
-      <link>https://vshabat.github.io/ds-bonfire-web/docs/master-template/how-to-use/</link>
+      <title>Блок &#34;Основной баннер&#34; </title>
+      <link>https://vshabat.github.io/ds-bonfire-web/docs/master-template/block-banner/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vshabat.github.io/ds-bonfire-web/docs/master-template/how-to-use/</guid>
-      <description>Как пользоваться мастер-шаблоном#Когда готовишь рассылку&amp;hellip;</description>
+      <guid>https://vshabat.github.io/ds-bonfire-web/docs/master-template/block-banner/</guid>
+      <description>Блок &amp;ldquo;Основной баннер&amp;rdquo;#Основной баннер нужен в любой рассылке, кроме тех, которые по сути являются транзакционными. Например, нет смысла ставить баннер в рассылку с напоминанием &amp;ldquo;вебинар начнется через 5 минут&amp;rdquo;.
+Если рассылка по сути является перечислением однородных пунктов (например рассылка с дайджестом новостей), все равно необходимо сделать баннер. То есть один из пунктов должен быть выделен визуально как главный.
+В нашем мастер-шаблоне предусмотрено три варианта баннеров.
+Одиночный баннер без кнопки используется для информационных рассылок, когда мы не ожидаем от читателя никакого действия.</description>
+    </item>
+    
+    <item>
+      <title>Блок &#34;Текст с кнопкой без изображений&#34; </title>
+      <link>https://vshabat.github.io/ds-bonfire-web/docs/master-template/block-text-no-image/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vshabat.github.io/ds-bonfire-web/docs/master-template/block-text-no-image/</guid>
+      <description>Блок &amp;ldquo;Текст с кнопкой без изображений&amp;rdquo;#Предназначен для информации второго уровня важности, выбивающейся из основного повествования.
+Фон может быть сделан не белым, в рамках цветов корпоративного стиля.
+Длинного текста в таком блоке быть не должно, максимум — 4 строчки на десктопе (не считая заголовка).</description>
+    </item>
+    
+    <item>
+      <title>Блок &#34;Текст с баннером и кнопкой&#34; </title>
+      <link>https://vshabat.github.io/ds-bonfire-web/docs/master-template/block-text-with-image/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vshabat.github.io/ds-bonfire-web/docs/master-template/block-text-with-image/</guid>
+      <description>Блок &amp;ldquo;Текст с баннером и кнопкой&amp;rdquo;#Предназначен для относительно длинных историй. При использовании такого блока нет ограничения на размер основного текста, естественно, в рамках разумного.</description>
+    </item>
+    
+    <item>
+      <title>Блок &#34;Новостной дайджест&#34; </title>
+      <link>https://vshabat.github.io/ds-bonfire-web/docs/master-template/block-news-digest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vshabat.github.io/ds-bonfire-web/docs/master-template/block-news-digest/</guid>
+      <description>Блок &amp;ldquo;Новостной дайджест&amp;rdquo;#Составной блок, состоит из вводной части и блоков отдельных новостей со ссылками.
+Не может идти первым: даже если суть письма — новостной дайджест, одна новость должна быть выделена как главная и представлена на основном баннере.
+Не забывайте чередовать блоки с размещением изображения справа и слева.
+Формат изображения (ширина, высота, скругления углов) должен быть в точности как в мастер-шаблоне.
+Объем текста должен быть не больше чем на 6 строчек, лучше уместиться в 4.</description>
+    </item>
+    
+    <item>
+      <title>Блок &#34;Список выгод&#34; </title>
+      <link>https://vshabat.github.io/ds-bonfire-web/docs/master-template/block-list-of-benefits/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vshabat.github.io/ds-bonfire-web/docs/master-template/block-list-of-benefits/</guid>
+      <description>Блок &amp;ldquo;Список выгод&amp;rdquo;#Составной блок, состоит из вводной части и блоков отдельных выгод чего-либо без ссылок. Предназначен для чтения от начала до конца, мы не хотим, чтобы клиент фокусировался только на одной выгоде и переходил по ссылке.
+Обратите внимание, что изображения в этом случае делаются на белом фоне.
+Не забывайте чередовать блоки с размещением изображения справа и слева.
+Объем текста должен быть не больше чем на 6 строчек, лучше уместиться в 4.</description>
+    </item>
+    
+    <item>
+      <title>Блок &#34;Назначение встречи&#34; </title>
+      <link>https://vshabat.github.io/ds-bonfire-web/docs/master-template/block-appointment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vshabat.github.io/ds-bonfire-web/docs/master-template/block-appointment/</guid>
+      <description>Блок &amp;ldquo;Назначение встречи&amp;rdquo;#В этом блоке просьба сохранять иконку-иллюстрацию. Рабочий текст — не больше трех строчек.</description>
+    </item>
+    
+    <item>
+      <title>Блок &#34;Ведущий вебинара или автор материала&#34; </title>
+      <link>https://vshabat.github.io/ds-bonfire-web/docs/master-template/block-host-author/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vshabat.github.io/ds-bonfire-web/docs/master-template/block-host-author/</guid>
+      <description>Блок &amp;ldquo;Ведущий вебинара или автор материала&amp;rdquo;#В этом блоке можно рассказать о члене команды, который является автором материала или который будет вести вебинар.</description>
     </item>
     
   </channel>

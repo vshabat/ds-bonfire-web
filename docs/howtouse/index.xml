@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Как пользоваться этим гайдом on Дизайн-система для email-рассылок Bonfire</title>
+    <link>https://vshabat.github.io/ds-bonfire-web/docs/howtouse/</link>
+    <description>Recent content in Как пользоваться этим гайдом on Дизайн-система для email-рассылок Bonfire</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://vshabat.github.io/ds-bonfire-web/docs/howtouse/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Примеры рассылок, сделанных из мастер-шаблона</title>
+      <link>https://vshabat.github.io/ds-bonfire-web/docs/howtouse/examples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vshabat.github.io/ds-bonfire-web/docs/howtouse/examples/</guid>
+      <description>Примеры рассылок, сделанных из мастер-шаблона#Details Первый пример
+An elephant at sunset shortcode is a helper for details html5 element. It is going to replace expand shortcode.
+Example#{{&amp;lt; details &amp;#34;Title&amp;#34; [open] &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /details &amp;gt;}} {{&amp;lt; details title=&amp;#34;Title&amp;#34; open=true &amp;gt;}} ## Markdown content Lorem markdownum insigne... {{&amp;lt; /details &amp;gt;}} TitleMarkdown content#Lorem markdownum insigne&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

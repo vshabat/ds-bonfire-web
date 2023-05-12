@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Как пользоваться этим гайдом on Дизайн-система для email-рассылок Bonfire</title>
+    <link>https://vshabat.github.io/ds-bonfire-web/docs/how-to-use/</link>
+    <description>Recent content in Как пользоваться этим гайдом on Дизайн-система для email-рассылок Bonfire</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://vshabat.github.io/ds-bonfire-web/docs/how-to-use/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Примеры рассылок, сделанных на основе мастер-шаблона</title>
+      <link>https://vshabat.github.io/ds-bonfire-web/docs/how-to-use/examples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vshabat.github.io/ds-bonfire-web/docs/how-to-use/examples/</guid>
+      <description>Примеры рассылок, сделанных на основе мастер-шаблона#Пример: Welcome-письмо#Письмо с несколькими смысловыми блоками
+Просмотреть в Figma
+Пример: дайджест новостей Bonfire#Вариант, когда новостей немного, каждой посвящается свой блок с баннером
+Просмотреть в Figma</description>
+    </item>
+    
+  </channel>
+</rss>
